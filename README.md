@@ -1,5 +1,3 @@
-# README.md
-TatianaZhitkova.README.md
 ### Hi there 👋
 
 <!--
@@ -14,7 +12,7 @@ TatianaZhitkova.README.md
 
 <p>
    
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Ekaterinburg. 
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 
 
 - :telescope: Love working with data.
 
@@ -25,15 +23,8 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <!--  
 - :coffee: My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
 -->
-- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89221611197) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DPeresvet)
+- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89629819333) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zhitatiana)
 </p>
-
-- :iphone: My socials: [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/da_saenko), 
-[![WhatsApp Badge](https://img.shields.io/badge/-ЯДзен-brightgreen?style=flat&logo=yandex&logoColor=white)](https://dzen.ru/denissaenko), 
-[![Habr Badge](https://img.shields.io/badge/-Habr-9cf?style=flat&logo=Habr&logoColor=white)](https://habr.com/ru/users/denissaenko/),
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/342180/peresvet),
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/denissaenko)
-
 
 -----------
 
